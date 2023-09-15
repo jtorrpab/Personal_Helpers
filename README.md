@@ -8,13 +8,13 @@ Este repositorio contiene algunos Notebooks en jupyter, en estos encontrarás sc
 
 ## Instalación
 
-1. Clonar el repositorio
-   git clone https://github.com/jtorrpab/Personal_Helpers.git
-2. Crear entorno virtual
-   py -m venv + <nombre_entorno>
-3.. Instalar dependencias 
+1. Clonar el repositorio <br>
+   git clone https://github.com/jtorrpab/Personal_Helpers.git <br>
+2. Crear entorno virtual <br>
+   py -m venv + <nombre_entorno> <br>
+3.. Instalar dependencias  <br>
    pip install -r requirements.txt
 
-# Nota
+## Nota
 En caso de que no puedas clonar el repositorio puedes hacerle un **Fork** o contactarme para darte acceso 
    
